@@ -1,0 +1,55 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+M
+portfolio-frontend/.gitignore,9\8\9890bc4d878986fa0fc2d6f71370279446b17348
+P
+ portfolio-frontend/.editorconfig,7\f\7fde329de548987f8639528e1d5b804adcbf95b1
+Å
+Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
+w
+G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+P
+ portfolio-frontend/tsconfig.json,a\2\a2be305282be57ab6a8a2344084935a397f13325
+T
+$portfolio-frontend/tsconfig.app.json,7\b\7be52f57ff30cafda333d2b0f11a10285c9a1569
+L
+portfolio-frontend/README.md,0\c\0c55927bbc895de8edc389a673e7ab7d8b571ba2
+O
+portfolio-frontend/package.json,4\4\447e5074ddbd1801450d1cdbf010702ad988bc81
+T
+$portfolio-frontend/package-lock.json,e\0\e06993086682adf79e4c0066d7835ca477872924
+O
+portfolio-frontend/angular.json,4\4\44308dd838542177ffd6577f7321eb29ad07ee88
+Z
+*portfolio-frontend/.vscode/extensions.json,4\0\403e1e7c13a476e393b9052dc9c3bec4da12384c
+Q
+!portfolio-frontend/src/styles.css,c\6\c65af157306d483132231039aa996e91ca152c58
+N
+portfolio-frontend/src/main.ts,3\d\3d3bbe8f3790e49c6e8813f8d92fffb134c15a53
+Q
+!portfolio-frontend/src/index.html,b\0\b0b81229a73be9d023a482ef0cc877856725c805
+U
+%portfolio-frontend/tsconfig.spec.json,0\6\06504268296a0cff4f5039974346c50949b878a5
+X
+(portfolio-frontend/src/app/app.config.ts,1\4\14c07031445a07fc99e42fc28381da237b372d95
+[
++portfolio-frontend/src/app/app.component.ts,8\f\8f74c7c05722792be93c9e2552f1eec4b1025cb9
+`
+0portfolio-frontend/src/app/app.component.spec.ts,8\b\8bedca2c5231ff248577560b1ddfaa33c858fde8
+]
+-portfolio-frontend/src/app/app.component.html,4\f\4f9a36447326edf0017df8ae237651cdf119014c
+\
+,portfolio-frontend/src/app/app.component.css,f\6\f67debd54dc15c693dee6498823186dad8e365ad
+U
+%portfolio-frontend/.vscode/tasks.json,9\c\9c5df440459021525e5f652c6dc6c4bc58a51fbd
+V
+&portfolio-frontend/.vscode/launch.json,5\d\5d8f913f0b5aaa22b043cf81a0a24b4199be327d
+V
+&portfolio-frontend/src/assets/.gitkeep,5\4\546e47794e6c1fc7d9244c4aaef463831cc31e2f
+X
+(portfolio-frontend/src/app/app.routes.ts,5\d\5d6bb994abec2305cefd2a0c31b1f28e904a71a6
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
