@@ -1,0 +1,68 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.sidebar {
+  /* Adjust the width as needed */
+  width: 250px;
+  background-color: #000;
+  color: #fff;
+  /* Align the profile picture to the center */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  /* Adjust the size as needed */
+  width: 100px;
+  height: 100px;
+}
+
+.main-content {
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #fff;
+  color: #000;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.download-cv-button {
+  /* Style your button */
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Add responsiveness if needed */
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  .sidebar {
+    width: 100%;
+    height: auto;
+  }
+  .main-content {
+    padding: 10px;
+  }
+}
