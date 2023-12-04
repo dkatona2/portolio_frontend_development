@@ -10,7 +10,7 @@ export class AuthService {
 
   constructor(private http: HttpClient) {}
 
-  signin(credentials: { username: string; password: string }): Observable<any> {
+  signin(credentials: { email: string; password: string }): Observable<any> {
     return this.http.post(`${this.authUrl}/signin`, credentials);
   }
 }
