@@ -81,3 +81,13 @@ Z
 *portfolio-frontend/src/app/auth.service.ts,d\1\d188740526326e8f2a739c848112812b8abe6aeb
 l
 <portfolio-frontend/src/app/models/login-credentials.model.ts,2\4\2496c58257b330b22469dbe3e5c77a0af974dfa7
+Z
+*portfolio-frontend/src/app/blog.service.ts,2\6\26d26055f78666616da6ba7eb2df4a1d95e5487b
+j
+:portfolio-frontend/src/app/models/blog-list-entry.model.ts,f\1\f1a32f9c8ed6db97156340f06f0f76aaf4b51f41
+n
+>portfolio-frontend/src/app/models/specific-blog-entry.model.ts,2\1\21a8d8be2ce7e770b8f6ee955eb5554977f350dd
+X
+(portfolio-frontend/src/app/app.module.ts,8\1\81c7be3d1265ec1e5546fdf761b1b5a4971445f0
+h
+8portfolio-frontend/src/app/login/login.component.spec.ts,5\8\580152681b14b3795bb88f28d96ba1e356971fef
